@@ -1,5 +1,4 @@
 #include <iostream>
-#include <ostream>
 #include "Animal.h"
 #include "Bird.h"
 #include "Visitor.h"
